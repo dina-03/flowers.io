@@ -319,11 +319,6 @@ i.icon-service:hover {
     height: 400px;
 }
 
-/* .bottom-left {
-    grid-column: 1/2;
-    _background-color: brown;
-} */
-
 .bottom-right {
     height: 400px;
     width: 50%;
@@ -525,9 +520,6 @@ footer {
 }
 
 @media screen and (max-width:700px) {
-    body {
-        width: 100%;
-    }
 
     .main {
         width: 100%;
